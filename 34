@@ -1,0 +1,11 @@
+start
+new a number
+set a 2
+new b number
+set b 2
+new c number
+set c 2
+new x number
+set x a + b * c
+log a >> " + " >> b >> " * " >> c >> " = " >> x
+finish
