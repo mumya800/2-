@@ -3,5 +3,5 @@ new Name string
 set Name "Diana"
 new Age number
 set Age 17
-log "My name is " >> Name >> ". I am " >> Age
+log string "My name is " >> Name >> ". I am " >> Age
 finish
