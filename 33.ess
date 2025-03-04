@@ -5,5 +5,5 @@ new b number
 set b 2
 new c number
 set c a + b
-log a >> " + " >> b >> " = " >> c
+log string a >> " + " >> b >> " = " >> c
 finish
